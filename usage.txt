@@ -1,0 +1,41 @@
+Radial-Progress-Bar-jQuery-SVG-CSS3
+https://www.jqueryscript.net/loading/Radial-Progress-Bar-jQuery-SVG-CSS3.html
+----------------------------
+animated-circle js
+https://www.jqueryscript.net/loading/Animated-Circle-Progress-Bar-with-jQuery-SVG-asPieProgress.html
+------------------------------
+mixit up jqplugin
+toggle-filtering-or-logic (demo:https://github.com/patrickkunka/mixitup/tree/v3/demos/toggle-filtering-or-logic       
+			    ---: https://github.com/patrickkunka/mixitup/tree/v3/demos/toggle-filtering-or-logic)
+https://www.kunkalabs.com/mixitup/
+https://github.com/patrickkunka/mixitup/
+
+-------------------------------
+HTML5 Shiv is a JavaScript workaround, created by Sjoerd Visscher, to enable styling of HTML5 elements in versions of Internet Explorer prior to version 9, which do not allow unknown elements to be styled without JavaScript.
+https://cdnjs.com/libraries/html5shiv
+----------------------------
+selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8.
+
+https://cdnjs.com/libraries/selectivizr
+----------------------------------------
+Respond js is a polyfill for CSS min-width and max-width media queries---------------
+A polyfill is a browser fallback, made in JavaScript, that allows functionality you expect to work in modern browsers to work in older browsers, e.g., to support canvas (an HTML5 feature) in older browsers
+https://cdnjs.com/libraries/respond.js/
+----------------------------------------------------------
+jquery js
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+
+https://code.jquery.com/
+
+------------------------------------------
+popper js
+A library used to manage poppers in web applications. Popper. js is a positioning engine, its purpose is to calculate the position of an element to make it possible to position it near a given reference element.
+https://cdnjs.com/libraries/popper.js?source=post_page---------------------------
+Popovers rely on the 3rd party library Popper. js for positioning. Dropdowns are built on a third party library, Popper. js, which provides dynamic positioning and viewport detection. So these are the Bootstrap 4 components that need Popper
+-----------------------------------------------------
+Bootstrap js
+Bootstrap is a framework to help you design websites faster and easier. It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels, etc. It also gives you support for JavaScript plugins
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+
+

@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'Titillium Web', sans-serif;
+    
+   
+}
+
+header {
+    background-color: #87509C;
+}
+.navbar-nav>li>a{
+    text-transform: uppercase;
+    color: white!important;
+}
+.navbar-nav>li{
+    
+}
+.active>a{
+    background-color: #643A79!important;
+    border-radius:0.25rem;
+}
+.jumbotron{
+    background-color: #87509C!important;
+    color: white;
+
+}
+
+.jumbotron>h1{
+    font-size: 2.625rem;
+    font-weight: 600px!important;
+}
+.b_t_n{
+    width: 18.313rem;
+    height: 4.188rem;
+    background-color: #EB7D4B;
+    color: white;
+    text-transform: uppercase;
+    font-weight:3rem!important;
+    line-height: 2.813rem;
+    
+}
+
+/*seection_1*/
+.section_1{
+    background-color: #17C2A4!important;
+    
+}
+.section_1 .container>div>div>div>h2{
+    color: white;
+    letter-spacing:0.125rem;
+}
+.section_1 .container>div>div>div>h2:after{
+    background-color: #14A58C;
+    width: 5.563rem;
+    display: block;
+    content: "";
+    height: 0.188rem;
+    margin: auto;
+    margin-top: 0.625rem;
+    
+    
+}
+.section_1 .container>div>div>div>small{
+    color: white;
+    opacity: .9!important;
+    
+}
+
+/*seection_2*/
+
+.section_2{
+    background-color: #E7F1F8!important;
+}
+.section_2 .container>div>div>div>h2{
+    color: black;
+    letter-spacing:0.125rem;
+    font-weight: 700!important;
+}
+.section_2 .container>div>div>div>h2:after{
+    background-color: #C8D9E5;
+    width: 5.563rem;
+    display: block;
+    content: "";
+    height: 0.188rem;
+    margin: auto;
+    margin-top: 0.625rem;
+    
+    
+}
+.section_2 .container>div>div>div>small{
+    color: black;
+    opacity: .9!important;
+    font-size: 1.125rem;
+    background-position: center!important;
+    
+    
+}
+.section_2_img div>img{
+    border-radius: 50%;
+    width: 12.5rem;
+    height: 12.5rem;
+     
+    
+}
+
+
+
+.section_2_img>div>h6{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.section_2_img>div>span{
+    color: #30bae7;
+}
+.section_2_img>div>ul>li{
+     text-align: center;
+     
+    justify-content: center;
+    display: flex;
+    
+    
+}
+.social_icon>li>a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+   text-align: center;
+    background-color: #BDD1DF;
+    width: 2.125rem;
+    height: 2.125rem;
+    border-radius: 50%;
+   
+
+}
+.social_icon>li>a{
+    margin-right:1.25rem;
+}
+
+
+  /* skill section */
+
+.section_3{
+    background-color: white
+}
+.section_3 .container>div>div>div>h2:after{
+    background-color: #C8D9E5;
+    width: 5.563rem;
+    display: block;
+    content: "";
+    height: 0.188rem;
+    margin: auto;
+    margin-top: 0.625rem;
+    
+    
+}
+
+
+
+.section_3 .container>div>div>div>small{
+    color: black;
+    
+    font-size: 18px;
+    background-position: center!important;
+    
+    
+}
+
+/*---jq plugin--*/
+.jq-redial-plugin h5{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+
+.jq-redial-plugin>div>svg>circle{
+    stroke-width:0.25rem;
+}
+
+.jq-redial-plugin>div>svg>text{
+    fill: black!important;
+}
+
+
+.stroke_1 .complete{
+    stroke:#30BAE7;
+}
+.stroke_2 .complete{
+    stroke:#D74680;
+}
+
+
+.stroke_3 .complete{
+    stroke:#15C7A8;
+}
+.stroke_4 .complete{
+    stroke:#EB7D4B;
+}
+
+
+
+
+/* OUR PORTFOLIO */
+
+
+.section_4{
+    background-color: #FFDD99!important;
+}
+.section_4 .container>div>div>div>h2{
+    color: black;
+    letter-spacing:0.125rem;
+    font-weight: 700!important;
+}
+.section_4 .container>div>div>div>h2:after{
+    background-color: #E5C37F;
+    width: 5.563rem;
+    display: block;
+    content: "";
+    height: 0.188rem;
+    margin: auto;
+    margin-top: 0.625rem;
+    
+    
+}
+.section_4 .container>div>div>div>small{
+    color: black;
+    opacity: .9!important;
+    font-size: 1.125rem;
+    background-position: center!important;
+    
+}
+/*MIXITUP*/
+
+.mixite_up_btn>button{
+    background-color: #EBC985;
+    text-transform: uppercase;
+    
+}
+.mixite_up_btn2{
+    background-color: #17C2A4!important;
+    font-weight: 600;
+    width: 18.375rem;
+    height: 4.375rem;
+    border-radius: 0.313rem;
+    color: white;
+}
+/*about us*/
+
+   
+
+.about_us{
+    background-color: #D74680;
+      color: white;
+}
+
+.about_us .container>div>div>div>h2:after{
+    background-color: #B73C6D;
+    width: 5.563rem;
+    display: block;
+    content: "";
+    height: 0.188rem;
+    margin: auto;
+    margin-top: 0.625rem;
+    
+    
+}
+.about_us .container>div>div>div>h2{
+    color: white;
+    letter-spacing:0.125rem;
+    font-weight: 700!important;
+}
+.about_us .container img{
+    border-radius: 3.125rem;
+    width: 6.063rem;
+    height: 6.063rem;
+}
+
+
+.about_us .container>div>div>div>small{
+    color: white;
+    
+    font-size: 1.125rem;
+    background-position: center!important;
+    
+    
+}
+.about_us .container .row>div>h6{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.about_us .container .row>div>small{
+    padding-top: 0;
+    margin-top: 0;
+    color: #FFDD99;
+}
+
+.font_italic{
+    color: whitere;
+    font-family: 'Titillium Web',Italic ;
+    
+    
+}
+
+/*FOOTER SECTION*/
+
+
+.footer{
+    background-color: #3C5499;
+    color: white
+}
+.footer .container>div>div>div>h2{
+    
+    letter-spacing:2px;
+    font-weight: 700!important;
+}
+
+.footer .container>div>div>div>h2:after{
+    background-color: #273A71;
+    width: 5.563rem;
+    display: block;
+    content: "";
+    height: 0.188rem;
+    margin: auto;
+    margin-top: 0.625rem;
+    
+    
+}
+.footer_btn{
+   
+    background-color: #30BAE7!important;
+    font-weight: 600;
+    width: 18.375rem;
+    height: 4.375rem;
+    border-radius: 0.313rem;
+    color: white;
+}
+
+.form-control{
+    background-color: #273A71;
+    border:0!important;
+}
+
+
+ .social_footer h6{
+    text-decoration-style: none!important;
+color: white;
+    font-weight: semi-bold;
+    font-size: 1.5rem;
+    text-transform: capitalize!important;
+     display: inline-block;
+     
+     
+}
+.social_footer {
+    background-color: #344B8E;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
