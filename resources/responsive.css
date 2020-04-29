@@ -1,5 +1,31 @@
-@media only screen and (max-width: 99px) {
-  {
-    background-color: lightblue;
-  }
+@media only screen and (max-width: 768px) {
+    .section_1 img{
+        width: 100%;
+        min-height: 132px;
+        
+    }
+    .service_we_provide h6{
+       display: grid;
+        
+        
+        
+    }
+    
+    .about_us .font_italic{
+        margin-left: 30px;
+    }
+    .about_us h6{
+        margin-left: 30px;
+    }
+    .about_us small{
+        margin-left: 30px;
+        display: block;
+    }
+    .social_media h6{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+       
+    }
 }
